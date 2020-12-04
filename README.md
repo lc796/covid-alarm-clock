@@ -8,7 +8,7 @@ This application is designed for both users who want an alarm clock to keep them
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the covid alarm clock, alongside it's prerequisites.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the covid alarm clock, alongside it's dependencies.
 
 The program uses:
 - pyttsx3
@@ -19,6 +19,9 @@ The program uses:
 pip install pyttsx3
 pip install Flask
 pip install requests
+pip install APScheduler
+pip install uk-covid19
+pip install python-dateutil
 ```
 
 ## Usage and Initial Configuration

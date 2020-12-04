@@ -3,6 +3,5 @@ Flask==1.1.2
 pylint==2.4.4
 pyttsx3==2.90
 requests==2.24.0
-Sphinx==3.3.1
 uk-covid19==1.2.0
 python-dateutil==2.4.1
