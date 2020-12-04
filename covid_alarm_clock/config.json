@@ -8,7 +8,7 @@
         "refresh-rate": 60,
         "news": {
             "url": "https://newsapi.org/v2/top-headlines?",
-            "api-key": "c8e82381ca4e4d7598c52e6aeecd3b21",
+            "api-key": "",
             "use-sources": "y",
             "sources": "bbc-news",
             "country": "gb",
@@ -22,7 +22,7 @@
         },
         "weather": {
             "url": "http://api.openweathermap.org/data/2.5/weather?",
-            "api-key": "93a1eca7115f5a3a87a421e2e51bb925",
+            "api-key": "",
             "city": "Exeter",
             "units": "metric",
             "notify-automatically-for": {
