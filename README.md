@@ -31,7 +31,7 @@ pip install python-dateutil
 
 Before attempting to use the alarm clock, you should take a look at the configuration file (config.json). You should sign up for an API key for the news API and weather API. Then you will need to paste these API keys into the relevant section of the configuration file (explained in the 'Further Configuration' section).
 
-To use the alarm clock, simply run the ``main.py`` module. This can be done on most systems by running ``python main.py`` from the terminal while in the directory where the Python module is located. If you have Python2 and Python3, you should run ``python3 main.py`` instead.
+To use the alarm clock, simply run the ``main.py`` module. This can be done on most systems by running ``python main.py`` from the terminal while in the root directory where the Python package is located (rather than the module). If you have Python2 and Python3, you should run ``python3 main.py`` instead.
 
 If you have successfully installed all of the application's prerequisite modules listed in the installation step above, the application should begin to run. It will run a local webserver which will act as the user interface for the application.
 
