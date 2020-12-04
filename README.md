@@ -14,6 +14,9 @@ The program uses:
 - pyttsx3
 - Flask
 - requests
+- APScheduler
+- uk-covid19
+- python-dateutil
 
 ```bash
 pip install pyttsx3
